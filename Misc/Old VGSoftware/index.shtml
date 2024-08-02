@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software</title>
+		<!--#include virtual="include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="include/top.html"-->
+		<p>
+		<div class="text">
+			<span class="header">News</span> (<span class="link"><a href="old.shtml">old news</a></span>)
+			<hr class="header">
+			<b>2001-06-19:</b> Back again! Info about current projects in the <a href="dev.shtml">Developers Journal</a>.
+			<br>
+			<b>2001-04-04:</b> Im back, small update to <a href="toolsite/gp3sb.shtml">Gp3 Set Builder</a>.
+			<br>
+			<b>2001-04-01:</b> Hi! Here I am again! I have one new program for you, <a href="toolsite/gp3sb.shtml">Gp3 Set Builder</a>, and I have also added some info into <a href="dev.shtml">Developers Journal</a>.
+			<br>
+			<b>2000-09-11:</b> First version of <a href="toolsite/gp3th.shtml">Gp3 Track Handler</a>, v0.9, is out!
+			<br>
+			<b>2000-09-03:</b> 2 new programms added to my site! <a href="toolsite/gpwedit.shtml">GPW Save File Editor</a> and <a href="toolsite/gpwmisc.shtml">GPW Misc Edit</a>. I have also changed this site some, in the menu you will not find all programms I have but you will find a link, <a href="software.shtml">VG Software Programms</a>, if you click this link you will get a list of all the programms. Some more words have also been written in the <a href="dev.shtml">Developers Journal</a>.
+			<br>
+			<b>2000-08-30:</b> Some more text in the <a href="dev.shtml">Developers Journal</a>.
+			<br>
+			<b>2000-08-22:</b> I have added some more news about GPW Save File Editor in the <a href="dev.shtml">Developers Journal</a>.
+			<br>
+			<b>2000-08-07:</b> I have added some news about GPW Save File Editor in the <a href="dev.shtml">Developers Journal</a>.
+			<br>
+			<b>2000-07-30:</b> I have made a new program for Gp3, <a href="toolsite/gp3conv.shtml">Gp3 Car Setup Converter</a>.
+			<br>
+			<b>2000-07-28:</b> Gp3 is out and I have it! I have also made a program for it, <a href="toolsite/gp3resrec.shtml">Gp3 Reset Record</a>.
+		</div>
+		<!--#include virtual="include/bottom.html"-->
+	</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - Contact</title>
+		<!--#include virtual="include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="include/top.html"-->
+		<p>
+		<span class="header">Contact</span>
+		<hr class="header">
+		<div class="text">
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="support.shtml">Support</a>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="comments.shtml">Comments/Sugustions</a>
+			<br>
+		</div>
+		<!--#include virtual="include/bottom.html"-->
+	</body>
+</html>

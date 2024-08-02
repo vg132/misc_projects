@@ -1,0 +1,154 @@
+Script started on Mon Oct  7 01:01:38 2002
+[vikto-ga@triton uppgift6]$ ./na  bank 
+
+********** VGBank v1.0 **********
+
+1. (n) Nytt konto
+2. (t) Ny Transaktion
+3. (s) Saldo
+4. (q) Avsluta
+[VGBank]$1
+********** NY KUND **********
+Namn: Viktor
+Adress: Testgatan 12
+Telefon: 444 555 666
+Kredit belop: 8521
+
+********** VGBank v1.0 **********
+
+1. (n) Nytt konto
+2. (t) Ny Transaktion
+3. (s) Saldo
+4. (q) Avsluta
+[VGBank]$2 3 s
+********** SALDO **********
+Namn: Vik
+Kunden finns inte
+
+********** VGBank v1.0 **********
+
+1. (n) Nytt konto
+2. (t) Ny Transaktion
+3. (s) Saldo
+4. (q) Avsluta
+[VGBank]$3
+********** SALDO **********
+Namn: Viktor
+********** INFORMATION OM KUNDEN **********
+Saldot är: 0.00
+Kreditbelopp: 5000.00
+********** KUNDENS SENASTE TRANSAKTIONER **********
+Inga transaktioner
+
+********** VGBank v1.0 **********
+
+1. (n) Nytt konto
+2. (t) Ny Transaktion
+3. (s) Saldo
+4. (q) Avsluta
+[VGBank]$2
+Namn: Viktor
+Belop: -5001
+Datum: 2001-01-01
+För lite pengar på kontot. Max belop: 5000.00
+
+********** VGBank v1.0 **********
+
+1. (n) Nytt konto
+2. (t) Ny Transaktion
+3. (s) Saldo
+4. (q) Avsluta
+[VGBank]$t
+Namn: Viktor
+Belop: 2000
+Datum: 2001-01-02
+
+********** VGBank v1.0 **********
+
+1. (n) Nytt konto
+2. (t) Ny Transaktion
+3. (s) Saldo
+4. (q) Avsluta
+[VGBank]$1
+********** NY KUND **********
+Namn: K Viktor
+Det finns redan ett konto registrerat på Viktor              
+
+********** VGBank v1.0 **********
+
+1. (n) Nytt konto
+2. (t) Ny Transaktion
+3. (s) Saldo
+4. (q) Avsluta
+[VGBank]$1
+********** NY KUND **********
+Namn: Kalle
+Adress: test
+Telefon: 454545
+Kredit belop: 12
+
+********** VGBank v1.0 **********
+
+1. (n) Nytt konto
+2. (t) Ny Transaktion
+3. (s) Saldo
+4. (q) Avsluta
+[VGBank]$q
+Programmet Avslutas
+[vikto-ga@triton uppgift6]$ ./bank 
+
+********** VGBank v1.0 **********
+
+1. (n) Nytt konto
+2. (t) Ny Transaktion
+3. (s) Saldo
+4. (q) Avsluta
+[VGBank]$3
+********** SALDO **********
+Namn: Kalle
+********** INFORMATION OM KUNDEN **********
+Saldot är: 0.00
+Kreditbelopp: 12.00
+********** KUNDENS SENASTE TRANSAKTIONER **********
+Inga transaktioner
+
+********** VGBank v1.0 **********
+
+1. (n) Nytt konto
+2. (t) Ny Transaktion
+3. (s) Saldo
+4. (q) Avsluta
+[VGBank]$3
+********** SALDO **********
+Namn: Viktor
+********** INFORMATION OM KUNDEN **********
+Saldot är: 2000.00
+Kreditbelopp: 5000.00
+********** KUNDENS SENASTE TRANSAKTIONER **********
+Transaktion från 2001-01-02          
+Belopp: 2000.00
+
+********** VGBank v1.0 **********
+
+1. (n) Nytt konto
+2. (t) Ny Transaktion
+3. (s) Saldo
+4. (q) Avsluta
+[VGBank]$q
+Programmet Avslutas
+[vikto-ga@triton uppgift6]$ clear
+ls -l
+[H[2J[vikto-ga@triton uppgift6]$ ls -l
+total 272
+-rw-r--r--    1 vikto-ga suh02         160 Oct  7 01:03 accounts.bank
+-rwxr-xr-x    1 vikto-ga suh02      239876 Oct  7 00:48 bank
+-rw-r--r--    1 vikto-ga suh02        5968 Oct  7 00:56 bank.pas
+-rw-r--r--    1 vikto-ga suh02        5385 Oct  7 00:24 bank.pas~
+-rw-r--r--    1 vikto-ga suh02           0 Oct  7 01:01 bank.txt
+-rw-r--r--    1 vikto-ga suh02        5512 Sep 30 13:42 bank_backup.pas
+-rw-r--r--    1 vikto-ga suh02        3916 Sep 30 12:39 no_file_bank.pas
+-rw-r--r--    1 vikto-ga suh02          32 Oct  7 01:03 transactions.bank
+[vikto-ga@triton uppgift6]$ exit
+exit
+
+Script done on Mon Oct  7 01:03:16 2002

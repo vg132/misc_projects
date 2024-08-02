@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - 15 Game</title>
+		<!--#include virtual="../include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="../include/top.html"-->
+		<p>
+		<span class="header">15 Game Online</span>
+		<hr class="header">
+		<div class="text">
+			<applet width="200" height="200" code="Game.class" Codebase="../java"></applet>
+		</div>
+		<!--#include virtual="../include/bottom.html"-->
+	</body>
+</html>

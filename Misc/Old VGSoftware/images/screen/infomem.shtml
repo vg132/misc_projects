@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<!--#include virtual="../../include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="../../include/top.html"-->
+		<center>
+			<p>
+				<h2>Info Mem v1.0</h2>
+				<img src="infomem.gif" width="230" height="153" alt="Info Mem">
+			</p>
+		</center>
+		<!--#include virtual="../../include/bottom.html"-->
+	</body>
+</html>

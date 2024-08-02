@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - Support</title>
+		<!--#include virtual="include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="include/top.html"-->
+		<p>
+		<span class="header">Support Questions</span>
+		<hr class="header">
+		<div class="text">
+			<form action="http://www.coder.com/code/mailform/mailform.pl.cgi" method="post">
+				<input type="hidden" name="MAILFORM_ID" value="Vik_3770">
+				<input type="hidden" name="MAILFORM_SUBJECT" value="VG Software - Support">
+				E-mail: <input type="text" name="email" size="30" maxlength="100">
+				<p>
+				Program: <input type="text" name="program" size="30">
+				&nbsp;Version: <input type="text" name="version" size="2">
+				<p>
+				Problem Description:
+				<br>
+				<textarea name="problem" cols=34 rows=7></textarea>
+				<p>
+				<input type="submit" value="Submit">
+				<input type="reset" value="Reset">
+			</form>
+		</div>
+		<!--#include virtual="include/bottom.html"-->
+	</body>
+</html>

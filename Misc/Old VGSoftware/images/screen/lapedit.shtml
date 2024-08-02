@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<!--#include virtual="../../include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="../../include/top.html"-->
+		<p>
+			<span class="header">Gp1 Lap Edit</span>
+			<hr class="header">
+			<span class="text">
+				<img src="lapedit.gif" width="378" height="242" alt="Gp1 Lap">
+			</span>
+		</p>
+		<!--#include virtual="../../include/bottom.html"-->
+	</body>
+</html>

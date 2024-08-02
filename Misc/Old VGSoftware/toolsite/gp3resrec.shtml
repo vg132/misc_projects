@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - Gp3 Reset Record</title>
+		<!--#include virtual="../include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="../include/top.html"-->
+		<p>
+		<span class="header">Gp3 Reset Record</span>
+		<hr class="header">
+		<div class="text">
+			<table width="550" border="0">
+				<tr>
+					<td width="150" valign="top">Description</td>
+					<td width="400">My first Gp3 program! This program will reset all track records in Gp3 to 3 minutes and you will then have a fare chance to beet them.</td>
+				</tr>
+				<tr>
+					<td width="150">Name</td>
+					<td width="400"><a href="/cgi-bin/clickcount.cgi?alias=Gp3_Reset_Record&url=http://vgsoftware.hypermart.net/download/gp3rec.zip"><img border="0" src="../images/menu/zip.gif" width="16" height="16" alt="Zip"> Gp3 Reset Record</a> (Downloads: <!--#include virtual="/cgi-bin/clickcount.cgi?whattodo=show&alias=Gp3_Reset_Record"-->)</td>
+				</tr>
+				<tr>
+					<td width="150">Version</td>
+					<td width="400">1.0</td>
+				</tr>
+				<tr>
+					<td width="150">File size</td>
+					<td width="400">17 kb</td>
+				</tr>
+				<tr>
+					<td width="150">Tested on</td>
+					<td width="400">Win95/98/NT/2000</td>
+				</tr>
+				<tr>
+					<td width="150">Runtime files</td>
+					<td width="400">-</td>
+				</tr>
+				<tr>
+					<td width="150">Screen shot</td>
+					<td width="400">-</td>
+				</tr>
+			</table>
+		</div>
+		<!--#include virtual="../include/bottom.html"-->
+	</body>
+</html>

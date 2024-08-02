@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<!--#include virtual="../../include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="../../include/top.html"-->
+		<p>
+			<span class="header">GPW Save File Editor</span>
+			<hr class="header">
+			<span class="text">
+				<img src="gpwedit.gif" width="707" height="445" alt="GPW Save File Editor">
+			</span>
+		</p>
+		<!--#include virtual="../../include/bottom.html"-->
+	</body>
+</html>

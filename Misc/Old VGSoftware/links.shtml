@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - Links</title>
+		<!--#include virtual="include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="include/top.html"-->
+		<p>
+		<span class="header">Links</span>
+		<hr class="header">
+		<div class="text">
+			<table border="0" width="688">
+				<tr>
+					<td width="167"><a href="http://www.grandprix2.com/" target="_new">http://www.grandprix2.com/</a></td>
+					<td width="507">The best Gp2 page</td>
+				</tr>
+				<tr>
+					<td width="167"><a href="http://www.kennybrack.com/" target="_new">http://www.kennybrack.com/</a></td>
+					<td width="507">1998 IRL Champion, 1999 winner of Indy 500 and now racing in CART</td>
+				</tr>
+				<tr>
+					<td width="167"><a href="http://www.atlasf1.com/" target="_new">http://www.atlasf1.com/</a></td>
+					<td width="507">The best F1 news pages, also have the best F1 BB</td>
+				</tr>
+				<tr>
+					<td width="167"><a href="http://www.grandprix1.com/" target="_new">http://www.grandprix1.com/</a></td>
+					<td width="507">The best Gp1 page</td>
+				</tr>
+				<tr>
+					<td width="167"><a href="http://www.f1-grandprix3.net" target="_new">http://www.f1-grandprix3.net/</a></td>
+					<td width="507">A very good Gp3 site</td>
+				</tr>
+				<tr>
+					<td width="167"><a href="http://www.f1sims.co.uk/" target="_new">http://www.f1sims.co.uk/</a></td>
+					<td width="507">A very good F1 Sims page</td>
+				</tr>
+				<tr>
+					<td width="167"><a href="http://www.fgnonline.com/" target="_new">http://www.fgnonline.com/</a></td>
+					<td width="507">Fastest Game News Online</td>
+				</tr>
+			</table>
+		</div>
+		<!--#include virtual="include/bottom.html"-->
+	</body>
+</html>

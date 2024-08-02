@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - Old News</title>
+		<!--#include virtual="include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="include/top.html"-->
+		<p>
+		<span class="header">Old news</span>
+		<hr class="header">
+		<div class="text">
+			<b>2000-07-27:</b> Yes! Gp2 Track Handler v1.6 is released! You can download it now, <a href="toolsite/th.shtml">Read more</a>! I have also written some words in the <a href="dev.shtml">Developers Journal</a>.
+			<br>
+			<b>2000-07-25:</b> I have added some info about Track Handler v1.6 and GPWEdit in the <a href="dev.shtml">Developers Journal</a>. I have also added some more links and removed some links.
+			<br>
+			<b>2000-06-16:</b> I have written some words in the <a href="dev.shtml">Developers Journal</a>.
+			<br>
+			<b>2000-06-09:</b> First update in June :). Today I have released the full version of <a href="toolsite/gpwedit.shtml">GPWEdit</a>. Go and download it now! I have also written some words in the <a href="dev.shtml">Developers Journal</a>.
+			<br>
+			<b>2000-05-31:</b> A new version of Gp1 Lap Edit is out! I have fixed the design and also added a built in checksum function (no more dos window!). <a href="toolsite/lapedit.shtml">Gp1 Lap Edit</a>.
+			<br>
+			<b>2000-05-27:</b> Big bug in GPWEdit, now the new fixed version is out. <a href="toolsite/gpwedit.shtml">GPWEdit</a>
+			<br>
+			<b>2000-05-26:</b> GPWEdit Beta is released today! Go and download it now, <a href="toolsite/gpwedit.shtml">GPWEdit</a>.
+			<br>
+			<b>2000-05-22:</b> Hello and welcome! I have not updated the site sense 03-09! Much have happened sense then, Ferrari have won 4 races and 2 poles in the F1 world Championship, I have started to learn Java, I have received a free domain for this page, www.vgsoftware.com! If you want to get a free domain, visit <a href="http://www.namezero.com">www.namezero.com</a>!<br> I have also added a new program, <a href="toolsite/infomem.shtml">Info Mem</a>.
+			<br>
+			<b>2000-03-09:</b> Some new info about Gp2 Track Setup Wizard in the Developers Journal. You can also read some news about Gp2 Track Handler v1.6.
+			<br>
+			<b>2000-01-23:</b> A new program added to the site, <a href="toolsite/frontend.shtml">Gp2 Track Edit Plus Front-end</a>. It's a front-end for IsoHannula's Gp2 Track Edit Plus program. I have also added a test program, Gp2 Track Setup Wizard, please download this program and test if it works on your computer.
+			<br>
+			<b>2000-01-03:</b> I have added a new tool, <a href="toolsite/lapedit.shtml">Gp1 Lap Edit</a>, a tool for Grand Prix 1.
+			<br>
+			<b>1999-12-13:</b> I have added a new program today, <a href="toolsite/id3.shtml">ID3 Tag Edit</a>.
+			<br>
+			<b>1999-12-12:</b>  New site design! I have also written some lines in the <a href="dev.shtml">developers journal</a>.
+			<br>
+			<b>1999-11-15:</b> I have added some lines in the <a href="dev.shtml">developers journal</a>.
+			<br>
+			<b>1999-11-04:</b> A fix for Gp2 Track Handler v1.5 Full Version is out now. <a href="toolsite/th.shtml">More Info</a>
+			<br>
+			<b>1999-10-18:</b> The program everybody have waited for, Gp2 Track Handler v1.5 is out!
+			<br>
+			<b>1999-10-15:</b> I have added a new program, Gp2 Lap Time Display. The program will show you the current lap records in your f1gstate.sav file.
+			<br>
+			<b>1999-10-03:</b> More written in the developers journal.
+			<br>
+			<b>1999-08-20:</b> New name for this site, Gars Gp2 Software Page. I have also written some info about Track Handler v1.5 in the developers journal.
+			<br>
+			<b>1999-08-14:</b> A new program was added today, Win Jam2Jad, a jam to jad converter for Windows.
+			<br>
+			<b>1999-08-11:</b> Some words written into the developers journal.
+			<br>
+			<b>1999-08-09:</b> A new version of the Track Editor Front-end is out today, v1.1, this version will work with all Track Editor versions.
+			<br>
+			<b>1999-08-03:</b> I have added a new program, Gp2 Track Editor Front-end. I have also removed Track Info Editor this program in built into Track Handler v1.4.
+			<br>
+			<b>1999-07-25:</b> Track Handler v1.4 is out now! Go and download it NOW! The one and only Gp2 Track Manager program you need!
+			<br>
+			<b>1999-07-10:</b> Info about the weather in Sweden in the Developers Journal (and some info about Track Handler).
+			<br>
+			<b>1999-06-29:</b> More written in the Developers Journal.
+			<br>
+			<b>1999-06-19:</b> I have written some lines in the Developers Journal.
+			<br>
+			<b>1999-06-11:</b> I have my new computer now! Read more about it and other things in the Developers Journal.
+			<br>
+			<b>1999-03-18:</b> I have written some lines in the Developers Journal.
+			<br>
+			<b>1999-03-08:</b> Some small design changes today. Also visit my F1 page for the latest results from the Australian GP, World of Formula One
+			<br>
+			<b>1999-03-04:</b> I have a new program out today, Gp2 Track Info Editor, this program is made for use with Gp2 Track Handler but can also be used alone. Read more about the program in the download section.
+			<br>
+			<b>1999-02-28:</b> Today you can download the help file from this page! It's not added to the zip files yet but I will add them later this week. I have also written some words in the Developers Journal.
+			<br>
+			<b>1999-02-25:</b> I'm still working with the design of the page, it will be updated many times today.
+			<br>
+			<b>1999-02-24:</b> New design to this page! Do you like it?? <a href="mailto:formula1@swipnet.se">Mail me</a> if you do and also if you don't!
+			<br>
+			<b>1999-02-23:</b> Fixed one error in the Zip file for the upgrade version. If you have downloaded the old zip please check your install directory and move check.exe and Gp2hipic.exe to a new folder named Gp2Utils.
+			<br>
+			<b>1999-02-17:</b> I have added a Guest Book to this site.
+			<br>
+			<b>1999-02-16:</b> New entire in the Developers Journal and version 1.3 of Track Handler is out!!!! Get it now!!!!!!
+		</div>
+		<!--#include virtual="include/bottom.html"-->
+	</body>
+</html>

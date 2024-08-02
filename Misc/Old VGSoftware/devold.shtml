@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - Old Developers Journal</title>
+		<!--#include virtual="include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="include/top.html"-->
+		<p>
+		<span class="header">Old Developers Journal Enterys</span>
+		<hr class="header">
+		<div class="text">
+			<b>1999-12-13</b> I'm back today also! I have added one new program,&nbsp; <a href="toolsite/id3.shtml">ID3 Tag Edit</a>, with this program you can edit the info in MP3 files.
+			<p>
+			<b>1999-12-12:</b> I'm back! I'm still working on Gp2 Track Handler v1.6. Today I have written a draft of the Help File, rebuilt the File Converter in Track Handler and it now work's much better then the old one and I have made a new UpDown.ocx control this one will work better then the one in v1.5. I have also removed the TabCtl32.ocx and you will not have to have this control to run v1.6, this will men 100kb less to download!
+			<br>
+			As you my se I have updated the design of this site, I will next week add a program to the Other Programs section it will be the public beta version of &quot;INet Counter&quot;, I hope you want to test this program and help me develop it.
+			<p>
+			<b>1999-11-15</b> I'm currently not working on Gp2 Software, I will try my luck and make a Internet Timer program, INet Counter is the name for this program, this program will log you internet activate and tell you how long you have used the internet and how much it will cost you. I will need beta testers for this program if you want to help me and test this program then mail me!
+			<a href="mailto:viktor.gars@swipnet.se">Viktor Gars</a>
+			<br>
+			I'm also  working on a program named "LAN Chat" (Working title!) it's a ICQ program for a LAN (Large Area Network). I have only worked on this program for 2 days and it's fare from complete.
+			<p>
+			<b>1999-10-29:</b> Only 2 days left until the last race for the 1999 Formula One Championship! I hope you have downloaded the latest version of Gp2 Track Handler now! If not then download it NOW!
+			<br>
+			Every time I finish a version of Track Handler I tell myself that I will not work on the new version for some weeks but like always I have already started working on the new version :(. I think the new version will be out in January 2000 (if my computer still works in year 2000...), or something like that.
+			<p>
+			<b>1999-10-03:</b> A new beta version of Track Handler v1.5 was released today. The full version will be out in about 2-3 weeks.
+			<p>
+			<b>1999-09-12:</b> The first beta version of Gp2 Track Handler v1.5 was ready yesterday. The new program only have 2 new controls for the upgrade version it will be about 300kb to download (the new controls are about 20 kb). I think the new version will be ready some time in late September or early October.
+			<p>
+			<b>1999-08-20:</b> As I told you one week ago I'm working on Track Handler 1.5 and I will show you a picture from the next version, remember that this is only a early picture but I think the design will not change more.  As you can see on the pic I have added a new file manager, it look's like the Save/Open dialog box. I hope you like the new file manager.
+			<p>
+			<b>1999-08-14:</b> Win Jam2Jam is out now, download it now! It's only 29 kb(!), if you have the VB6 runtime files.
+			<p>
+			<b>1999-08-11:</b> I have started work on v1.5 of Track Handler. I have found some small bug's in Track Handler v1.4 and will fix them for the new version. Please report all error to me and I will fix them in the new version. The new version will be out in September or October (by then we will know if Schumi will be back for Monza or not).
+			<br>
+			I'm also working on a Win Jam2Jad program, I hope it will be ready later this week.
+			<p>
+			<b>1999-08-03:</b> Wow!!! Over 1000 visitors to this site in one week! I hope all of you have downloaded the new program. Today I have added a new program, Gp2 Track Editor Front-end. This is a Windows front-end for IsoHannula's Gp2 Track Editor.
+			<p>
+			<b>1999-07-25: </b>Ok, I know am 1 week late but here it is, <a href="toolsite/th.shtml">Track Handler v1.4</a>. go and download the new version now!
+			<p>
+			<b>1999-07-10: </b>Wow! 30 degree Celsius in Stockholm today last year the wormest day was only 27degree Celsius. But I guess you did not come here to read about the weather in Sweden. The first Beta version of Track Handler 1.4 was released last week and a new Beta will be out tomorrow. The full version will be out next week, proberly Sunday. This was all I had to say today.
+			<p>
+			<b>1999-06-29: </b>Today I have almost only worked on the lap time database for the program and it look's as good as I can get it to look and work with the tools I have. Because this program will be downloaded from the Internet I can't use all the things I want to use when I build the program. I had to build the database functions myself because if I use DAO or any other database tool I need to send it with the program and it will be another 3Mb, or more!! If you are currently using Track Handler v1.3 then you will be able to download a update version with no VB6 runtime files and it's only about 200-300kb, but if you don't have the VB6 runtime files you will heave to download the full version and it's about 1.6 Mb, sorry. The program will be ready in about 2-3 week's. Do you want to beta test this new version? Please e-mail me if you want! In your mail please tell me if you have v1.3 or not. <a href="mailto:formula1@swipnet.se">Mail Me</a>!
+			<p>
+			<b>1999-06-19: </b>I have worked all week on Track Handler and It looks grate! Today I have added a Jam Check function. With this function you can select a track file and then press this button and the program will tell you if all jam files needed by this track is installed on you computer. Click here for a screen shot from the new program [Removed from server].
+			<p>
+			<b>1999-06-11:</b> Wow!! I'm back! I have received my new computer now and will be able to update this site more often now. I'm now working on v1.4 of Track Handler it will have a new look but the basics are still the same (e.g drag and drop track's to a tree). The new version will be out late June or early July.
+			<p>
+			<b>1999-03-18: </b>This is my last day in school, I will be back in 3 weeks now I will be working at <a href="http://www.alfaskop.se/" target="_New">AlfaSkop</a> and do my best to help them develop &quot;real&quot; computer programs. During this time I will not be able to update this site if I don't get my new computer during this time. But I will be able to awnser your mail.
+			<br>
+			When I get the new computer I will start working on the new version of Gp2 Track Handler, v1.4.
+			<p>
+			<b>1999-03-04: </b>One day before the start of the new F1 season in Australia! I have added a new program to the download site, download it now if you use Gp2 Track Handler or WinTrackMan. I also have some BAD news, I will lose my computer next week and will not get a new until April :(( But I will still be able to update this site from school but I will not be able to work with any programs :((.
+			<p>
+			<b>1999-02-28:</b> I have added the Help file today. I have also made a new program, Gp2 Track Info Editor, I will upload it to this site later this week. With the new program you can edit the Gp2Info in the Track files and insert the things you want to have. If you have Gp2 Track Handler v1.3 you will only have to download the program file and it's only 30kb or something if you don't have Track Handler v1.3 (e.g. VB6 runtime files) you have to download the big version of this program. More info about it later. Now I have to continue my studies for my Window NT Server and NT Workstation exams on Monday :(((
+			<p>
+			<b>1999-02-17: </b>One day after the big day. First bug found today, in the Lap time database you can't save anything on the first position, if you add something to this position it will not be saved. I'm currently planing for a add-on program for Track Handler, only for v1.3, a Track Packer. If you have v1.3 of Track Handler (if not go and download it now!) you can find a option at the bottom of the edit menu, &quot;About this Track Pack...&quot; when you click on this you get an empty box, nothing intrusting But when Track Packer is ready you will find info about the track pack in this box.
+			<br>
+			More about Track Packer now. I have not made anything yet but this is the ide of how this program will work. You make a season or only some track's with Gp2 Track Handler and then you start Gp2 Track Packer and this program will then pack all of the track files, menu pics, jam files and all of the data about the track's into one file. This file has a setup program and you don't have to have Track Handler to install the Track Pack to Gp2. You will also be able to just unpack the file and use it with Track Handler. The ide with this program is that you will be able to send your track's, seasons over the internet in a easy to use install file. I will tell you more about the program when I have started. I'm still in school (for 9 more weeks) so I don't have much time to spare on my programs but I try to spend as much time as I can. I made some test last night and I fond some good things that I will be able to use in the Track Packer program. Sorry for my bad English but this is the way I spell when I try to write in English :((
+			<p>
+			<b>1999-02-16:</b> Ok, the big day! Gp2 Track Handler v1.3 is out now, go and download it now! It will not future all of the functions I told you about in the last post ( se below) but some new thing are added to this new version. I'm still working on the help file it will be out by the end of February.
+			<p>
+			<b>1998-12-25:</b> Some bad and some good new from me. The bad news is that v1.3 will not be realest until late January :((( The good new is that it will be able to do about 100% more things that the old v1.3 :)))). I head a good and almost ready v1.3 but then I disided to add more things to it and this is way it will not be realest until later in January, the program will not be a Track Manager program only (It will not change name) I have added most of the things you can do with Gp2Edit into my program. My program will not be able to export/import Jam files except the Car jam and it will not have a sound editor, but you will be able to change team name, driver name, power and more. I hope your not to unhappy about this..
+			<p>
+			<b>1998-12-14:</b> The first &quot;big&quot; test's with the beta version of Track Handler v1.3 indicate that it wont have the same Unexpected Error problem that Track Handler v1.2 had.
+			<br>
+			A new version of Gp2 Setup Editor will be realest as the same time as Track Handler v1.3 will be out, this version will not be as buggy as the last version.
+			<p>
+			<b>1998-11-29:</b> Ok, you may think I have stopped working on Gp2 Track Handler. But you are wrong! I'm working hard to make v1.3 as good as it can be. This last two weeks I have been contacted by 3 persons how wanted me to help them to develop a new Gp2 utility, the Gp2 Super Utility. I have decided to go on with my program and not get involved in any other project. This is because I love doing this program and I also do this to learn more about Visual Basic 5. Since I started with Track Handler in beginning of July I have learn more things about Visual Basic and Gp2 then ever before and I intend to keep learning more. This is also the reason way I don't tell you all the new features in the next version of Track Handler.
+			<p>
+			Now to something completely different, in my program there is one BIG AND STRANGE BUG(??), the UNEXPECTED ERROR!!! I know many of you have get this message on your screen and many of you never get it. I have tried to solve this problem but I have not succeeded. I have installed all VB5 runtime files and some more files but I can't get it running on some computers. But when I tested to make the program in Visual Basic 6 (I use VB5) it worked fine(!!), I hope to get some money soon so I can buy a copy of VB6 and hopefully solve this problem. I will not release V 1.3 until I have a copy of VB6, I hope it will then be realest sometime in December or January.
+			<p>
+			I also need Beta testers that can test V1.3 before it's realest, do you want to be a Beta tester please <a href="mailto:formula1@swipnet.se">mail me</a>! If you have the unexpected error and want to help me fix it please <a href="mailto:formula1@swipnet.se">mail me</a>!&nbsp; Also mail me if you want to add something new to the program, I will then try to add it to the program.
+			<p>
+			<b>1998-10-17:</b> Gp2 Setup Editor has been realest today, download it NOW! I have also started working on Track Handler v1.3, please tell me what you want to seen in the next version! <a href="mailto:formula1@swipnet.se">Mail me</a>. The new version will proberly be out in late November or sometime in December. On Monday I well begin in School once more, 24 hard weeks to learn more about Windows NT, Networks and more, this means that I will not have as much spare time like I have had in the past and will not be able to work on the programs every day.
+			<p>
+			<b>1998-10-13:</b> This site will soon have to change name because I will later this week release 2 new programs, Gp2 Setup Editor and Gp2 Time Editor. With Gp2 Setup Editor you can view, edit and create setup files for Gp2. Gp2 Time Editor is a &quot;real&quot; Lap Record logger. You can import driver, team, time and date from all track records, and you can then change them and export them back to Gp2, or save them to a file!! You need to use gpchksum for both program's and both programs are for Windows 95/98/NT.
+			<p>
+			<b>1998-10-10:</b> Gp2 Track Handler v1.2 was realest today! Download it now! I'm now working on a Gp2 Setup File Editor, and I need your help! I know nothing about how to setup a car in Gp2, if you know how the car is affected by changes to Packers or the Spring for example please mail me and I will add that information into the program. <a href="mailto:formula1@swipnet.se">Mail Me</a>!
+			<p>
+			<b>1998-10-03:</b> Like all GOOD programs Track Handler v1.2 has not been realest on it's targeted release date, 27 of September, but I hope to release it sometime next week. Nothing new to say about the development, yeast some bugs fixed and I have started working on the Help file, a real help file this time. Do you have the IA track pack?? If you have and want to help me make Gp2 Track Handler compatible with the track pack <a href="mailto:formula1@swipnet.se">mail me</a>!
+			<p>
+			<b>1998-09-17</b>: Ok Build 4 of Track Handler v1.2 was realest today (you can't download it if your not a Beta Tester). Some more bugs defeated and some improvements to the import function. Also I have added a new thing, Random Season, this function selects track's in random order and creates a new season from them! I also have some bad news, I think I have to remove the &quot;Import Menu Pictures&quot; form the program :(( But not the Export menu pictures :)
+			<br>
+			During the weekend and this week (until yesterday) I have not worked with the program, I have been busy playing TEKKEN 3 for PlayStation and watch the Italian GP, what a race and what a Game!! On Saturday I started working on a Gp2Hipic Front End program, I don't know if it will be realest but I think I will realest it and it will then be realest on the same day as Track Handler v1.2, 27 of September (the same day Schumi will win the Luxembourg GP ;).
+			<p>
+			<b>1998-09-07</b>. Yesterday the first Beta of v1.2 was realest, and today a new Beta version. Now the program can Import and Export all Gp2 data it's built for, except Gp2edit dos path files (It will come later). In the program you will be able to export a single track and you don't have to export all track's to Gp2! Remember to vote for Track Handler on <a href="http://www.Gp2.com" target="_new">www.Gp2.com</a>
+			<p>
+			<b>1998-08-30.</b> I have worked hard on v1.2 of Track Handler the last day's and now the program can import and export selected parts of Gp2 data. The track length is now down to about +-1m if not less! I need your help to make the program the best, if you want to be a Track Handler Beta Tester the <a href="mailto:formula1@swipnet.se">e-mail me</a>! I have also added a point editor in this version. Remember to download version 1.1 of Track Handler if your still using v1.0!
+			<p>
+			<b>1998-08-21.</b> The second entry in this journal! Today I have worked hard on version 1.2 of Track Handler. I can tell you that it will be a Treeview based program, like Paul Hoad's Track Edit and Windows Explorer, this means it's fully drag and drop. The only thing you have to do is drag the track file to the track and drop it! I have also worked on v 1.1 and I have dissided to add an automatic version finder, this will reduce the amount of people selecting the wrong version (way was this not included in&nbsp; version 1.0???) and hopefully German Gp2 support. Version 1.1 will be out next week and version 1.2 in late September.
+			<p>
+			<b>1998-08-18. </b>The first day of this section. Today Track Handler v1.0 was realest and I have got some reports about errors when importing. I have started to work on a new version, v1.1, and the new version will proberly be out next week. This version will not include any new functions, it will only be an update. I have also started working on version 1.2, this version will have a coplitly different design and will include some new functions, track grip and tire ware and some other nice things. Version 1.2 will proberly be realest sometime in September.
+		</div>
+		<!--#include virtual="include/bottom.html"-->
+	</body>
+</html>

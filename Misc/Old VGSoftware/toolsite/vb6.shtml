@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - VB6 Runtime files</title>
+		<!--#include virtual="../include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="../include/top.html"-->
+		<p>
+		<span class="header">VB6 Runtime files</span>
+		<hr class="header">
+		<div class="text">
+			Some of my programs are written in Visual basic 6.0 and to run them you will need to have the VB6 runtime files installed on your computer. To check if you have them installed please search your windows directory after a file named &quot;Msvbvm60.dll&quot; if you have this file then you proberly have the Vb6 runtime files installed and you don't have to download them once more. If you don't have this file on you HD then you need to download them, click on the link below to start downloading them now.
+			<p>
+			<a href="/cgi-bin/clickcount.cgi?alias=VB6&url=http://vgsoftware.hypermart.net/download/vbrun60.exe"><img border="0" src="../images/menu/zip.gif" width="16" height="16" alt="Zip"> Visual basic 6.0 runtime files (1 Mb)</a>
+		</div>
+		<!--#include virtual="../include/bottom.html"-->
+	</body>
+</html>

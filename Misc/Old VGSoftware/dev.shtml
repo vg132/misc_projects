@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - Developers Journal</title>
+		<!--#include virtual="include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="include/top.html"-->
+		<p>
+		<span class="header">Developers Journal</span> (<span class="link"><a href="devold.shtml">old enterys</a></span>)
+		<hr class="header">
+		<div class="text">
+			<b>2001-06-19:</b> Hi again. Am just back to tell you that Im still active and currently has 5 new programs that I try to finnish as fast as I can, when thay are ready I will upload them to this site for you. The programs are, Mp3 File Studio, GpX Setup File Studio, Return of the Mask, VG Tetris and Mouse Forever. I hope to be able to finnish some of them soon.
+			<p>
+			<b>2001-04-01:</b> Hi! Im back after 6 months of no updates! Not much has happend sence the last update exepte that I have (as you may have guessed) droped Gp3 Track Handler. Today I have moved the site to a new server that forces me to have a banner on every page and I have also updated the design of the pages. The resen for the move is that sence last time I have learnd the basics of Perl-CGI and want to use CGI and SSI on my page and this was the only solution.
+			<br>
+			I cant come here and update without a new program so I have also added my latest program, <a href="toolsite/gp3sb.shtml">Gp3 Set Builder</a> this program will help you build track set files for GPxPatch - GpLap.
+			<p>
+			<b>2000-09-11:</b> First realease of <a href="toolsite/gp3th.shtml">Gp3 Track Handler</a>, v0.9, is out now, download it now!
+			<p>
+			<b>2000-09-03:</b> Ok, GPW Save File Editor is out now with 15 minutes left of the day... I have not had time to add the help files that I talked about because I have been ill for the last 3 days :(. I hope to be able to add them later this week. Now go and download the 2 new programms!
+			<br>
+			<a href="toolsite/gpwedit.shtml">GPW Save File Editor 1.0</a> and <a href="toolsite/gpwmisc.shtml">GPW Misc Edit</a>.
+			<p>
+			<b>2000-08-30:</b> Its time to admit that GPW Save File Editor will not be released tomorow. The release has been moved to Sunday the 3'rd of September 2000. The progam is 99.99% finished but I need to write a help file and finish some small things in the program before I can release it to you.
+			<br>
+			I have also worked with Gp3 Track Handler v1.0 and today I can show you the first screen shot of the new design. Show Me [Removed from server]! I hope to finish a public beta version of the program next week and you will then find it on this site then.
+			<p>
+			<b>2000-08-22:</b> Once more its been some time sence I last wrote somthing here but now its time agen... I have started school once more and not worked on GPW Save File Editor in the last week but beffore that and today I have worked with it. I still think I will be able to release the program later this month. I have also a new screen shot from the new program, GPW File Save Editor [Removed from server], hope you like it!
+			<p>
+			Im also working on Gp3 Track Handler but its taking longer then I was expecting, I have many problems with Drag & Drop in VC++ and currently GPW Save File Editor is my primary project (after school that is...).
+			<p>
+			<b>2000-08-07:</b> Hi! I have just played Gp3 some more and I love the game!!!
+			<br>
+			I have not only played Gp3, I have also worked very hard with GPW Save File Editor v1.0 and now I can show you a screen shot of this new program, GPW Save Editor [Removed from server]. Remember that this is a very early screen shot from this program and some elements will change when the program is finished.
+			<p>
+			<b>2000-07-30:</b> A new tool for Gp3! I have made a program that will convert your old Gp2 Car Setup files to new Gp3 Car Setup files that you can use in Gp3. Go and download it now! <a href="toolsite/gp3conv.shtml">Gp3 Car Setup Converter</a>.
+			<br>
+			I have started working on Gp3 Track Handler, now the program can import, change and export track names and country. I have not had any luck in finding out how to edit the nr of laps or the track length yet but I have not given up yet.
+			<p>
+			<b>2000-07-28:</b> I have Gp3! The game is very good but I need to play it more before I can give you a final verdict. I have made a program for Gp3, <a href="toolsite/gp3resrec.shtml">Gp3 Reset Record</a> this program will reset all track records to 3 minutes. I hope you like this tool.
+			<p>
+			<b>2000-07-27:</b> Today is the day when the last version of <a href="toolsite/th.shtml">Gp2 Track Handler v1.6</a> is released! The new version has many fixed bugs and also some new functions.
+			<br>
+			Next week I hope to be able to release a game! This is my first game and its Tetris. I need to fix some small bugs in the game but its almost ready for release, stay tune...
+			<br>
+			Tomorrow I will take the train to Stockholm and get myself a copy of Gp3! I cant wait!
+			<p>
+			<b>2000-07-25:</b> I will give you some info about the progress of my programs that is due for release soon.
+			<blockquote>
+			<b>Gp2 Track Handler v1.6</b>
+			<br>
+			The last version of this program :(. I have been working on this program for over 2 years now, I started in July 1998. The new version is almost ready but I need to fix some small things and also finish the help file. I have added some new functions to this version and also fixed many bugs that was in the old versions. I hope it will be out later this week, hopefully before Gp3 is out (28'th)!
+			</blockquote>
+			<blockquote>
+			<b>GPW Save File Edit</b>
+			<br>
+			I have changed the name for this program from GPWEdit to GPW Save File Edit. The program will have a totally new design and also many more futures. You will have to wait some more before I can tell you about all the new functions in this version. I have worked very hard on the design of the program for the last 3 days and Im very happy about the design even if its only 30% finished, the design is standard windows so don't expect any pictures taken from GPW I think standard windows design is the best for this type of program. I think the program will be ready for release sometime in August.
+			</blockquote>
+			<p>
+			As a side note I can tell you that Gp3 track files use the same checksum as Gp1 and Gp2 files also my Jam Checker in Gp2 Track Handler works with Gp3 track files! I have one track file and 3 jam files from Gp3 today but I will buy the full game on Friday!
+			<p>
+			<b>2000-06-16:</b> Hi, this is jest a quick update to tell you how things are going! I know you are very interested in how things are going for me ;). The last week I have worked with Gp2 Track Handler and have made some good progress. I have made a Dll file that can calculate the checksums and also convert jam files to jad files and back for the backup function. If you have any ides for how to make Track Handler better then please e-mail me now, this is your last chance as this will be the last update! <a href="mailto:viktor.gars@telia.com">Viktor</a>
+			<br>
+			<p>
+			<b>2000-06-09:</b> Today I have released the full version of <a href="toolsite/gpwedit.shtml">GPWEdit</a> go and download it now! I have also some new things ready to be included in the next version, I also think I will have to change the design of the program in the next release as you can see now the program is very full but I think the new design will be for the better. Now I will work on <a href="toolsite/th.shtml">Gp2 Track Handler</a> and INet Counter and also continue working on a new version of <a href="toolsite/gpwedit.shtml">GPWEdit</a>, but don't expect a new version until some time in August (if there is now bugs in this version!).
+			<p>
+			<b>2000-05-31:</b> I have been free from school for 2 weeks now and will be free from school for 2 more weeks, then I will have to go back to school for 2 more weeks and then Im free for 6 weeks! During this free time I have been able to work on some of my programs, Gp1 Lap Edit and Gp2 Track Handler but I have also started working on a new program, GPWEdit, this is a save file editor for Grand Prix World (Grand Prix Manager 3). The full version will be out in about 2 weeks. I will after that release new versions with new functions to them and I hope to be able to continue developing this program for a long time. You can find a beta version of the program here, <a href="toolsite/gpwedit.shtml">GPWEdit</a>.
+			<br>
+			Today I have released a new version of my <a href="toolsite/lapedit.shtml">Gp1 Lap Edit</a> program, go and download it now!
+			<p>
+			<b>2000-05-22:</b> Im back once more! I have moved back to the old design I think this is better then the last one I tried. As you my know Im back in school and that's way I don't have time to update this site as often as I want to. On good thing about this is that in school Im learning Java and C++ and now you can find 2 Java applets on my page, the first one is at the top of the main page and the second one is a <a href="toolsite/15game.shtml">15 Game</a> that you can play online!
+			<br>
+			I have also added a new program, <a href="toolsite/infomem.shtml">Info Mem</a>, this is a program that you can use to view the memory use on your system. Later this week or next week I will add a new program, a beta version of GPWEdit, a save file editor for Grand Prix World!
+			<br>
+			Im also working on Track Handler v1.6, its going slow but it will be out this summer and it will be the last version and the best!
+			<br>
+			Also I have moved the page to a new server and got a new web address, <a href="http://www.vgsoftware.com/">www.vgsoftware.com</a>!
+			<p>
+			<b>2000-03-09:</b> It has been a long time sense I updated this site but now it's time agen. Like I told you before I am at school now and have just started with Java programming, very fun! Don't expect any Gp2 programs written in Java but I my add a Java applet to this site some time. I have a full working version of Gp2 Setup Wizard on my computer now (it has been full working for 2 months) but I will not release it unless you really want to have it. I was to fast to anouns the program and did not think about the MFC file the user have to have installed to run the program and it will therefor not be a 10kb overhead but over 200kb overhead in the zip file and this is to much, the file needed is mfc42.dll. I will try to do a dos version but I have other things to do also so this project is currently on hold.
+			<br>
+			One program that is never on hold is Gp2 Track Handler v1.6. The new version will be released in 2 forms, one Light version, this program will basically only install tracks and menu pictures. There will also be a Normal version with many other track related functions, e.g. track backup, point editor, car setups, CC Car setups etc etc. The new version will proberly be delayed until April :( I work slow but I know this will be the best version ever and proberly also the last, sad but true :( But I will begin to develop a new program this summer, Gp3 Track Handler! I don't have the game yet but I hope it will be possible to make this program.
+			<h2>Good luck Michael, Rubens and Ferrari in the new Formula One Season!</h2>
+			<p>
+			<b>2000-01-20:</b> A new program added to this site, <a href="toolsite/frontend.shtml">Gp2 Track Edit Plus Front-end</a>. The new version of Gp2 Track Handler will be out in March 2000, It will have some new functions but most of all it will be more bug free then the current versions.
+			<p>
+			<b>2000-01-03:</b> New year and a new tool! I have added <a href="toolsite/lapedit.shtml">Gp1 Lap Edit</a>, this is my first Gp1 tool and I hope you like it!
+			<br>
+			I hope all your computers still work, my computers work fine in the new millennium. I will soon begin school once more and learn Java and C++ for 2 year!! I hope to be able to give you many nice tools and programs during this time.
+		</div>
+		<!--#include virtual="include/bottom.html"-->
+	</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - Gp3 Track Handler</title>
+		<!--#include virtual="../include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="../include/top.html"-->
+		<p>
+		<span class="header">Gp3 Track Handler</span>
+		<hr class="header">
+		<div class="text">
+			<table width="550" border="0">
+				<tr>
+					<td width="150" valign="top">Description</td>
+					<td width="400">This is the beta version of the new closed project Gp3 Track Handler. This is the only version ever released and no more work is being made on this program.</td>
+				</tr>
+				<tr>
+					<td width="150">Name</td>
+					<td width="400"><a href="/cgi-bin/clickcount.cgi?alias=Gp3_Track_Handler&url=http://vgsoftware.hypermart.net/download/gp3th.zip"><img border="0" src="../images/menu/zip.gif" width="16" height="16" alt="Zip"> Gp3 Track Handler</a> (Downloads: <!--#include virtual="/cgi-bin/clickcount.cgi?whattodo=show&alias=Gp3_Track_Handler"-->)</td>
+				</tr>
+				<tr>
+					<td width="150">Version</td>
+					<td width="400">0.9 -[Beta]-</td>
+				</tr>
+				<tr>
+					<td width="150">File size</td>
+					<td width="400">152 kb</td>
+				</tr>
+				<tr>
+					<td width="150">Tested on</td>
+					<td width="400">Win95/98</td>
+				</tr>
+				<tr>
+					<td width="150">Runtime files</td>
+					<td width="400">-</td>
+				</tr>
+				<tr>
+					<td width="150">Screen shot</td>
+					<td width="400"><a href="../images/screen/gp3thbeta.shtml">1</a></td>
+				</tr>
+			</table>
+		</div>
+		<!--#include virtual="../include/bottom.html"-->
+	</body>
+</html>

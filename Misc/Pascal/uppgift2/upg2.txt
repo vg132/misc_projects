@@ -1,0 +1,17 @@
+Script started on Tue Sep  3 12:24:27 2002
+[vikto-ga@triton uppgift2]$ u ./upg2 
+Byköpings Bank
+
+Ange kontotyp: a
+Ange behållning: 1000
+Ange slutår: 2007
+2002       1000.00
+2003       1070.00
+2004       1144.90
+2005       1225.04
+2006       1310.80
+2007       1402.55
+[vikto-ga@triton uppgift2]$ exit
+exit
+
+Script done on Tue Sep  3 12:24:39 2002

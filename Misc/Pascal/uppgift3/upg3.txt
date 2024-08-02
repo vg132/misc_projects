@@ -1,0 +1,58 @@
+Script started on Tue Sep  3 12:25:28 2002
+[vikto-ga@triton uppgift3]$ ./upg3 
+Viktors Stapel Program
+
+Stapel 1>1
+Stapel 2>5
+Stapel 3>10
+Stapel 4>15
+Stapel 5>20
+Stapel 6>25
+Stapel 7>36
+Fel, skall vara mellan 1 och 25. Försök igen!
+Stapel 7>7
+Stapel 8>6
+Stapel 9>9
+Stapel 10>14
+Arrayen: 1, 5, 10, 15, 20, 25, 7, 6, 9, 14, 
+Här är ett liggande stapeldiagram:
+*
+*****
+**********
+***************
+********************
+*************************
+*******
+******
+*********
+**************
+Här är ett stående stapeldiagram:
+          *         
+          *         
+          *         
+          *         
+          *         
+        * *         
+        * *         
+        * *         
+        * *         
+        * *         
+      * * *         
+      * * *       * 
+      * * *       * 
+      * * *       * 
+      * * *       * 
+    * * * *       * 
+    * * * *     * * 
+    * * * *     * * 
+    * * * * *   * * 
+    * * * * * * * * 
+  * * * * * * * * * 
+  * * * * * * * * * 
+  * * * * * * * * * 
+  * * * * * * * * * 
+* * * * * * * * * * 
+[vikto-ga@triton uppgift3]$ exit
+exit
+
+Script done on Tue Sep  3 12:25:57 2002

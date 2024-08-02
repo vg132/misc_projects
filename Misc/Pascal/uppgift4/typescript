@@ -1,0 +1,47 @@
+Script started on Sun Sep 15 20:46:04 2002
+[vikto-ga@triton uppgift4]$ ./dogprog 
+DogProg
+Hundens Namn: Karo
+Ras: Tax
+Ålder: 12
+Vikt: 21
+Vill du registrera en till hund? (J/N) j
+Hundens Namn: Kalle
+Ras: Ana ka
+Ålder: 21
+Vikt: 12
+Vill du registrera en till hund? (J/N) j
+Hundens Namn: Akna
+Ras: Ellak
+Ålder: 32
+Vikt: 12
+Vill du registrera en till hund? (J/N) j
+Hundens Namn: Kana
+Ras: Lana
+Ålder: 1
+Vikt: 2
+Vill du registrera en till hund? (J/N) j
+Hundens Namn: Lig va
+Ras: Avil
+Ålder: 12
+Vikt: 31
+Vill du registrera en till hund? (J/N) n
+Namn: Kalle               
+Ras: Anka                
+Ålder: 21
+Svans längd: 25.20
+
+Namn: Akna                
+Ras: Ellak               
+Ålder: 32
+Svans längd: 38.40
+
+Namn: Liva                
+Ras: Avil                
+Ålder: 12
+Svans längd: 37.20
+
+[vikto-ga@triton uppgift4]$ exit
+exit
+
+Script done on Sun Sep 15 20:47:46 2002

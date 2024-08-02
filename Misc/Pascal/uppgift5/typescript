@@ -1,0 +1,48 @@
+Script started on Tue Sep 17 00:20:45 2002
+[vikto-ga@triton uppgift5]$ ./dogprog 
+DogProg v1.1
+Hundens Namn: Karo
+Ras: Pudel
+Ålder: 12
+Vikt: 32
+Vill du registrera en till hund? (J/N) j
+Hundens Namn: Orak
+Ras: Rak
+Ålder: 31
+Vikt: 1
+Vill du registrera en till hund? (J/N) j
+Hundens Namn: Krak
+Ras: Kå  Ark
+Ålder: 14
+Vikt: 21
+Vill du registrera en till hund? (J/N) j
+Hundens Namn: Var k
+Ras: Rak
+Ålder: 21
+Vikt: 12
+Vill du registrera en till hund? (J/N) j
+Hundens Namn: Vek
+Ras: Tax
+Ålder: 12
+Vikt: 43
+Vill du registrera en till hund? (J/N) j
+Hundens Namn: Kal
+Ras: Lak
+Ålder: 21
+Vikt: 12
+Vill du registrera en till hund? (J/N) n
+Namn           Ras            Ålder   Svans längd
+Kal            Lak               21         25.20
+Vak            Rak               21         25.20
+Krak           Ark               14         29.40
+Karo           Pudel             12         38.40
+Please stand by, searching for killer Poodles...
+All killer Poodles have been terminated!
+Namn           Ras            Ålder   Svans längd
+Kal            Lak               21         25.20
+Vak            Rak               21         25.20
+Krak           Ark               14         29.40
+[vikto-ga@triton uppgift5]$ ei xit
+exit
+
+Script done on Tue Sep 17 00:22:07 2002

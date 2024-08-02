@@ -1,0 +1,10 @@
+Script started on Tue Sep  3 12:21:52 2002
+[vikto-ga@triton uppgift1]$ ./upg1 
+Vällkomen till Viktors ålders beräknare
+
+Ditt födelse nummer: 79 80926
+Du är 24 år gammal/ung och född på hösten
+[vikto-ga@triton uppgift1]$ exit
+exit
+
+Script done on Tue Sep  3 12:22:03 2002

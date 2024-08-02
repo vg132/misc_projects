@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - Gp2 Track Handler</title>
+		<!--#include virtual="../include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="../include/top.html"-->
+		<p>
+		<span class="header">Gp2 Track Handler</span>
+		<hr class="header">
+		<div class="text">
+			<table width="550" border="0">
+				<tr>
+					<td width="150" valign="top">Description</td>
+					<td width="400">Gp2 Track Handler is a track manager program for Gp2 tracks.
+														Futures in the program<br>
+														- Change tracks (name, country, laps).<br>
+														- Change menu track maps (bmp and gif support).<br>
+														- Edit track information.<br>
+														- Backup tracks.<br>
+														- Uninstall tracks.<br>
+														- Edit points.<br>
+														- Add your carset EXE files from Steven Young's GP2Edit to you track set and you will be able to export them at the same time as the tracks.<br>
+														- Change track length in the menu's (+-1m) you will get the right average speed etc.<br>
+														- Support of English, France, Dutch, Italian, US, German and Spanish versions of GP2 (All known version of GP2).<br>
+														- Export and Import best lap times for every track.<br>
+														- Save best lap times in a database.<br>
+														- And More...
+
+				</td>
+				</tr>
+				<tr>
+					<td width="150" valign="top">Name</td>
+					<td width="400"><a href="/cgi-bin/clickcount.cgi?alias=Gp2_Track_Handler&url=http://vgsoftware.hypermart.net/download/th16f.zip"><img border="0" src="../images/menu/zip.gif" width="16" height="16" alt="Zip"> Gp2 Track Handler</a> (Downloads: <!--#include virtual="/cgi-bin/clickcount.cgi?whattodo=show&alias=Gp2_Track_Handler"-->)</td>
+				</tr>
+				<tr>
+					<td width="150">Version</td>
+					<td width="400">1.6</td>
+				</tr>
+				<tr>
+					<td width="150">File size</td>
+					<td width="400">908 kb</td>
+				</tr>
+				<tr>
+					<td width="150">Tested on</td>
+					<td width="400">Win95/98/NT/2000</td>
+				</tr>
+				<tr>
+					<td width="150">Runtime files</td>
+					<td width="400"><a href="vb6.shtml"><img border="0" src="../images/menu/vb.gif" width="16" height="16" alt="VB"> Visual Basic 6</a></td>
+				</tr>
+				<tr>
+					<td width="150">Screen shot</td>
+					<td width="400"><a href="../images/screen/th16.shtml">1</a></td>
+				</tr>
+			</table>
+		</div>
+		<!--#include virtual="../include/bottom.html"-->
+	</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - Gp3 Set Builder</title>
+		<!--#include virtual="../../include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="../../include/top.html"-->
+		<p>
+		<span class="header">Gp3 Set Builder</span>
+		<hr class="header">
+		<img src="gp3setbuilder.gif" width="464" height="343" alt="Gp3 Set Builder">
+		<!--#include virtual="../../include/bottom.html"-->
+	</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>VG Software - GPWEdit</title>
+		<!--#include virtual="../include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="../include/top.html"-->
+		<p>
+		<span class="header">GPW Save File Editor</span>
+		<hr class="header">
+		<div class="text">
+			<table width="550" border="0">
+				<tr>
+					<td width="150" valign="top">Description</td>
+					<td width="400">With this program you can edit you Grand Prix World save files and give you more moany, better drivers and more.</td>
+				</tr>
+				<tr>
+					<td width="150">Name</td>
+					<td width="400"><a href="/cgi-bin/clickcount.cgi?alias=GPW_Edit&url=http://vgsoftware.hypermart.net/download/saveedit.zip"><img border="0" src="../images/menu/zip.gif" width="16" height="16" alt="Zip"> GPW Save Editor</a> (Downloads: <!--#include virtual="/cgi-bin/clickcount.cgi?whattodo=show&alias=GPW_Edit"-->)</td>
+				</tr>
+				<tr>
+					<td width="150">Version</td>
+					<td width="400">1.0</td>
+				</tr>
+				<tr>
+					<td width="150">File size</td>
+					<td width="400">196 kb</td>
+				</tr>
+				<tr>
+					<td width="150">Tested on</td>
+					<td width="400">Win95/98/NT/2000</td>
+				</tr>
+				<tr>
+					<td width="150">Runtime files</td>
+					<td width="400">-</td>
+				</tr>
+				<tr>
+					<td width="150">Screen shot</td>
+					<td width="400"><a href="../images/screen/gpwedit.shtml">1</a></td>
+				</tr>
+			</table>
+		</div>
+		<!--#include virtual="../include/bottom.html"-->
+	</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>ID3 Tag Edit</title>
+		<!--#include virtual="../../include/style.css"-->
+	</head>
+	<body>
+		<!--#include virtual="../../include/top.html"-->
+		<p>
+			<span class="header">ID3 Tag Edit</span>
+			<hr class="header">
+			<span class="text">
+				<img src="id3edit.gif" width="606" height="277" alt="ID3 Tag Edit">
+			</span>
+		</p>
+		<!--#include virtual="../../include/bottom.html"-->
+	</body>
+</html>
